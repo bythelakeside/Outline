@@ -4,6 +4,6 @@
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.31:8443?security=tls&sni=ams1.fromblancwithlove.com#⭐%20|%20Основной
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.22:8443?security=tls&sni=ams1.fromblancwithlove.com#🔧%20|%20Запосной
 vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇬🇧#1%20|%20United%20Kingdom
-vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?mode=auto&path=/&encryption=none&host=kakapi.global.ssl.fastly.net&type=xhttp#🇳🇱#1%20|%20Netherlands
-vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=&encryption=none&host=khodroshop.ir&type=ws#🇩🇪#2%20|%20Germany
+vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?mode=auto&path=/&encryption=none&host=kakapi.global.ssl.fastly.net&type=xhttp#🇳🇱#2%20|%20Netherlands
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=&encryption=none&host=khodroshop.ir&type=ws#🇩🇪#3%20|%20Germany
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.22:8443?security=tls&sni=ams1.fromblancwithlove.com#🇸🇪#4%20|%20Sweden
