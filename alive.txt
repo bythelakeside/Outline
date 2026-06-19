@@ -1,7 +1,9 @@
 #profile-title: OUTLINE FREE
 #profile-update-interval: 24
 
-vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#🏁%20🛡️%20|%20Основной
-vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#🏁🔗%20|%20Запосной
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.195:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#🇸🇪#1%20|%20Sweden
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.161:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇪#2%20|%20Sweden
+vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#⭐%20|%20Основной
+vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#🔧%20|%20Запосной
+vless://68001b7e-e48a-5a02-8243-c1a2a37b66b7@146.19.254.109:443?fp=firefox&pbk=WIeO8R9We0X2lv0M3-E_yOkXyUBayIRKIBDUMDVu6BE&security=reality&sid=ffffffffff&sni=ya.ru&type=grpc#🇳🇱#1%20|%20Netherlands
+vless://17fc973b-2631-477e-a5d0-7045dab38f31@2.27.22.238:110?security=&encryption=none&headerType=none&type=tcp#🇩🇪#2%20|%20Germany
+vless://3e90e726-ae18-42e4-9fee-7fcc3a9db251@hm.khoycityman.ir:443?encryption=none&fp=chrome&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&security=reality&sid=5f94b460ce29c7&sni=www.yahoo.com&spx=/p4l6zH3QdG16mMs&type=tcp#🇹🇷#3%20|%20Turkiye
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.133:8443?type=tcp&security=tls&fp=firefox&sni=ams1.fromblancwithlove.com#🇸🇪#4%20|%20Sweden
