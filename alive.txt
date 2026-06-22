@@ -1,10 +1,10 @@
 #profile-title: OUTLINE FREE
 #profile-update-interval: 24
 
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#⭐%20|%20Основной
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#⭐ | Основной
 vless://e18dfd9f-15e3-41c0-b779-20b9d68a527e@185.147.27.105:80?type=ws&security=none&fp=firefox&path=/#🔧 | Запосной
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb1.oneokapp.com:443?encryption=none&security=tls&serviceName=grpc-api&type=grpc#🇬🇧#1%20|%20United%20Kingdom
-vless://8c733dfd-07a4-4ad5-8b28-07ca0e57deda@185.147.27.105:80?encryption=none&type=ws&security=none#🇳🇱#2%20|%20Netherlands
-vless://3346b3dd-fd39-4967-8c6f-a2c472bcd7c1@217.16.28.126:443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=NGK7rbaQgNFEiZ2bnUG6PA2pU3yL1ye7WUhJk_qGO0U&security=reality&sid=3fdbd681c2f9a56b&sni=static3.glowbreeze.online&type=xhttp#🇩🇪#3%20|%20Germany
-vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:43144?type=httpupgrade&headerType=none&security=none&encryption=none&path=%2F#🇫🇮#4 | Finland
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@195.181.166.73:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=UtAnh-HlChjh3afrhycDmeOSFs7cZBjIJx0qG7NB5Rc&sid=b419319c&flow=xtls-rprx-vision#🇸🇪#5%20|%20Sweden
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb1.oneokapp.com:443?encryption=none&security=tls&serviceName=grpc-api&type=grpc#🇬🇧#1 | United Kingdom
+vless://8c733dfd-07a4-4ad5-8b28-07ca0e57deda@185.147.27.105:80?encryption=none&type=ws&security=none#🇳🇱#2 | Netherlands
+vless://3346b3dd-fd39-4967-8c6f-a2c472bcd7c1@217.16.28.126:443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=NGK7rbaQgNFEiZ2bnUG6PA2pU3yL1ye7WUhJk_qGO0U&security=reality&sid=3fdbd681c2f9a56b&sni=static3.glowbreeze.online&type=xhttp#🇩🇪#3 | Germany
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@195.181.166.73:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=UtAnh-HlChjh3afrhycDmeOSFs7cZBjIJx0qG7NB5Rc&sid=b419319c&flow=xtls-rprx-vision#🇸🇪#4 | Sweden
+vless://2b446337-5874-4d9c-8d27-9ce0eac2389c@185.216.71.193:43144?type=httpupgrade&headerType=none&security=none&encryption=none&path=%2F#🇫🇮#5 | Finland
