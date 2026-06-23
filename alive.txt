@@ -1,8 +1,8 @@
 #profile-title: OUTLINE FREE
 #profile-update-interval: 24
 
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@186.246.6.138:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#⭐ | Основной
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@186.246.4.182:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🔧 | Запосной
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?type=ws&security=tls&fp=firefox&sni=unnes.ac.id.yxls.eu.cc&path=/ca-cl&host=unnes.ac.id.yxls.eu.cc#⭐ | Основной
+vless://124d62b5-8763-41eb-8762-dc75269698d1@217.150.197.54:443?encryption=none&security=tls&sni=213.21.222.19.blanesik.space&fp=ios&alpn=h2&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=%2Fsequre%2Fgrpc&mode=gun#🔧 | Запосной
 vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb1.oneokapp.com:443?type=grpc&security=tls&serviceName=grpc-api#🇬🇧#1 | United Kingdom
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@72.56.14.178:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#🇳🇱#2 | Netherlands
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@109.236.57.188:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.sellflow.org&type=tcp#🇩🇪#3 | Germany
