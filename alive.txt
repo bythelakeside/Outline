@@ -7,4 +7,4 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?allowInsecure=0&
 vless://a487f942-fba4-4d29-ab5d-9c7992064c24@hentai-cdn.apruxdomain.xyz:80?type=ws&freeinternet=kizyak_vpn1782154405788#🇳🇱#2 | Netherlands
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@93.183.80.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.sellflow.org&type=tcp#🇩🇪#3 | Germany
 vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@de-dp-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=tcp#🇸🇪#4 | Sweden
-vless://invalid@invalid:0#неверная 🇫🇮#5 | Finland (-)
+vless://invalid@invalid:0#🇫🇮#5 | Finland (-)
