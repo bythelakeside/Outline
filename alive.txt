@@ -8,3 +8,4 @@ vless://2c745da3-f69f-4268-810e-389e935412e9@167.104.55.25:35401?security=none&e
 vless://94d7eefa-5c27-4c82-b159-6048c351fb9a@144.31.230.169:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GhRS0DArxmmgxh0WYlA1vLu1HrS_1oiFmWRr0dZlPnk&security=reality&sid=0f4f5970da2af8d7&sni=www.twitch.tv&type=tcp#🇩🇪#3 | Germany
 vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=firefox&freeinternet=kizyak_vpn1781531711674&headertype=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇸🇪#4 | Sweden
 vless://invalid@invalid:0# 🇫🇮#5 | Finland (-)
+vless://71ec2768-b5f5-4846-8c13-79f2ffc0cde6@152.236.6.20:443?type=grpc&security=reality&serviceName=api.v1.telemetry.EventStream&fp=chrome&sni=addons.mozilla.org&pbk=lMawqF82a-t8kYrzRmhMGmG53Zm3wnFeqs3VyxAFiAs&sid=530db35e324c3aa5&encryption=none#🇯🇵 Japane 2
