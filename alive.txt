@@ -28,6 +28,9 @@ vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@fra.pandaonline.org:443?type=tcp&se
 
 vless://not-a-valid-uuid@example.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=example.com&pbk=invalid_key&encryption=none# 
 vless://not-a-valid-uuid@example.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=example.com&pbk=invalid_key&encryption=none#⠀
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#👇 ====================
+vless://not-a-valid-uuid@example.com:443#👇 ====================
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?type=tcp&encryption=none#👇 ====================
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@185.141.227.178:443?type=grpc&security=reality&flow=&fp=firefox&sni=5post-gate.x5.ru&pbk=lX4yCWkxa9DbWKw_b4FmVzjEyoVYcUjqqx_zfOH0XG8&encryption=none&serviceName=grpc&mode=multi#🇷🇺#1 | LTE Обход БC
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@185.141.227.178:8443?type=grpc&security=reality&flow=&fp=firefox&sni=5post-gate.x5.ru&pbk=lX4yCWkxa9DbWKw_b4FmVzjEyoVYcUjqqx_zfOH0XG8&encryption=none&serviceName=grpc&mode=multi#🇷🇺#2 | LTE Обход БC
