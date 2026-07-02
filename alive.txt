@@ -4,7 +4,7 @@
 #profile-web-page-url: https://raw.githubusercontent.com/bythelakeside/Outline/refs/heads/main/alive.txt
 #announce: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ<br>Не работает? 🔄 Обнови подписку | 🕓 Проверь пинг и смени сервер
 
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@fin4.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=fin4.pandaonline.org&pbk=ulXKajRtElRPxTi0rtJUnwI9l1eyWKY47bGY-4_w5QE&encryption=none#🇪🇺#⭐ | Основной 5
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@fin4.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=fin4.pandaonline.org&pbk=ulXKajRtElRPxTi0rtJUnwI9l1eyWKY47bGY-4_w5QE&encryption=none#🇪🇺#⭐ | Основной
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@bel1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=bel1.pandaonline.org&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM&encryption=none#🇪🇺#🔧 | Запосной
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#👇 ==========================
