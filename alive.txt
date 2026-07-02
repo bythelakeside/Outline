@@ -1,5 +1,8 @@
 #profile-title: OUTLINE FREE
 #profile-update-interval: 24
+#subscription-userinfo: upload=455727941; download=6174315083; total=1073741824000; expire=1671815872
+#support-url: https://t.me/happ_chat
+#profile-web-page-url: https://happ.su
 #profile-description: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ
 #profile-description: Не работает ? - 🔄 Обновите подписку | 🕓 Проверьте пинг и смените сервер
 #profile-url: https://raw.githubusercontent.com/bythelakeside/Outline/refs/heads/main/alive.txt
