@@ -1,13 +1,11 @@
 #profile-title: OUTLINE FREE
 #profile-update-interval: 24
-#subscription-userinfo: upload=455727941; download=6174315083; total=1073741824000; expire=1671815872
-#support-url: https://t.me/happ_chat
-#profile-web-page-url: https://happ.su
-#profile-description: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ
-#profile-description: Не работает ? - 🔄 Обновите подписку | 🕓 Проверьте пинг и смените сервер
-#profile-url: https://raw.githubusercontent.com/bythelakeside/Outline/refs/heads/main/alive.txt
+#subscription-userinfo: upload=24117248; download=0; total=1099511627776; expire=1917820800
+#profile-web-page-url: https://raw.githubusercontent.com/bythelakeside/Outline/refs/heads/main/alive.txt
+#announce: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ
+#announce: Не работает ? - 🔄 Обновите подписку | 🕓 Проверьте пинг и смените сервер
 
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@fin4.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=fin4.pandaonline.org&pbk=ulXKajRtElRPxTi0rtJUnwI9l1eyWKY47bGY-4_w5QE&encryption=none#🇪🇺#⭐ | Основной 2
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@fin4.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=fin4.pandaonline.org&pbk=ulXKajRtElRPxTi0rtJUnwI9l1eyWKY47bGY-4_w5QE&encryption=none#🇪🇺#⭐ | Основной 3
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@bel1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=bel1.pandaonline.org&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM&encryption=none#🇪🇺#🔧 | Запосной
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#👇 ==========================
