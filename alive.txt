@@ -33,8 +33,8 @@ vless://cb0ebd6c-c38f-488a-ba1f-b6eac5790057@cz1-node.astra-vpn.com:443?type=tcp
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#👇 ==========================
 
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@185.141.227.178:443?type=grpc&security=reality&flow=&fp=firefox&sni=5post-gate.x5.ru&pbk=lX4yCWkxa9DbWKw_b4FmVzjEyoVYcUjqqx_zfOH0XG8&encryption=none&serviceName=grpc&mode=multi#🇷🇺#1 | LTE Обход БC
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@185.141.227.178:8443?type=grpc&security=reality&flow=&fp=firefox&sni=5post-gate.x5.ru&pbk=lX4yCWkxa9DbWKw_b4FmVzjEyoVYcUjqqx_zfOH0XG8&encryption=none&serviceName=grpc&mode=multi#🇷🇺#2 | LTE Обход БC
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@185.141.227.178:9443?type=grpc&security=reality&flow=&fp=firefox&sni=5post-gate.x5.ru&pbk=lX4yCWkxa9DbWKw_b4FmVzjEyoVYcUjqqx_zfOH0XG8&encryption=none&serviceName=grpc&mode=multi#🇷🇺#3 | LTE Обход БC
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@193.33.133.194:443?type=grpc&security=reality&flow=&fp=chrome&sni=dzen.ru&pbk=5f_7knvdTuK5bek16zI3cgP5sjDAPJaeFKjd-NALfwQ&encryption=none&serviceName=grpc&mode=multi#🇷🇺#1 | LTE Обход БC
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@s44323.cdn.ngenix.net:443?type=ws&security=tls&fp=chrome&sni=s44323.cdn.ngenix.net&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&host=s44323.cdn.ngenix.net&alpn=http%2F1.1#🇷🇺#2 | LTE Обход БC
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@193.33.133.195:443?type=grpc&security=reality&flow=&fp=chrome&sni=dzen.ru&pbk=5f_7knvdTuK5bek16zI3cgP5sjDAPJaeFKjd-NALfwQ&encryption=none&serviceName=grpc&mode=multi#🇷🇺#3 | LTE Обход БC
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@193.33.133.194:443?type=grpc&security=reality&fp=chrome&sni=dzen.ru&pbk=5f_7knvdTuK5bek16zI3cgP5sjDAPJaeFKjd-NALfwQ&encryption=none&serviceName=grpc&mode=multi#🇷🇺#4 | LTE Обход БC
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@31.129.42.182:443?type=grpc&security=reality&flow=&fp=chrome&sni=5post-gate.x5.ru&pbk=wZJdiXI75kt_SIIGIfO6OonpS1cbFDlN9QoadW5X83Y&encryption=none&serviceName=grpc&mode=multi&sid=aa19486790#🇷🇺#5 | LTE Обход БC
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@cdn1.pandaonline.org:443?type=ws&security=tls&fp=qq&sni=cdn1.pandaonline.org&encryption=none&path=%2Fstream%2F119857546%2Fchat&host=cdn1.pandaonline.org&alpn=h3%2Ch2#🇷🇺#5 | LTE Обход БC
