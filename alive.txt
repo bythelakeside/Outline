@@ -5,3 +5,4 @@
 
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺🚀 | Запосной
+vless://91fea7ed-2415-4adf-adb2-4a1dcb3b0528@95.164.123.134:605?encryption=none&type=grpc&mode=gun&security=reality&sni=www.accuweather.com&fp=chrome&pbk=Mnuk3vxgQAx6snZ3xNYtxlc-ce226bFgmDSrNlj9Khs&sid=2d1702e9e32be50b#🇩🇪#6 | Germany
