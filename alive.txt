@@ -4,7 +4,7 @@
 #announce: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ<br>Не работает? 🔄 Обнови подписку | 🕓 Проверь пинг и смени сервер
 
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной
-vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺🚀 | Запосной
+vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺🚀 | Запасной
 vless://b5092732-7ae8-4d29-a64b-08072daf2712@51.250.21.37:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇷🇺🔊 | Антиглушилка
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#👇 ==========================
