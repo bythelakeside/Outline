@@ -1,4 +1,4 @@
-#profile-title: Devin VPN  (THEIR)
+#profile-title: Devin VPN ⚡ (THEIR)
 #profile-update-interval: 24
 #subscription-userinfo: upload=24117248; download=0; total=0; expire=1917820800
 #announce: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ<br>Не работает? 🔄 Обнови подписку | 🕓 Проверь пинг и смени сервер
