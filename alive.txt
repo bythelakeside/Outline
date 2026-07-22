@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=24117248; download=0; total=0; expire=1917820800
 #announce: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ<br>Не работает? 🔄 Обнови подписку | 🕓 Проверь пинг и смени сервер
 
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#ТЕХНИЧУСКИЕ РАБОТЫ
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#ТЕХНИЧЕСКИЕ РАБОТЫ !!!
