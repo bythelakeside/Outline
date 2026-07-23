@@ -1,6 +1,24 @@
 #profile-title: Devin VPN ⚡ (THEIR)
-#profile-update-interval: 48
+#profile-update-interval: 24
 #subscription-userinfo: upload=24117248; download=0; total=0; expire=1917820800
 #announce: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ<br>Не работает? 🔄 Обнови подписку | 🕓 Проверь пинг и смени сервер
 
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#ТЕХНИЧЕСКИЕ РАБОТЫ !!!
+vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@lb19.pixelforge.pics:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=hartfordmedia.online&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇪🇺🚀 | Автоматический регион
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@insights.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇪🇺🧠 | AI (Google, Sora)
+
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#👇 ==========================
+
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@validate.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=hartfordmedia.online&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇬🇧#1 | United Kingdom
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@data.westondigita.cloud:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=hartfordmedia.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇺🇸#2 | United States
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@assets.pixelforge.pics:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=hartfordmedia.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇳🇱#3 | Netherlands
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@94.139.246.17:554?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇰🇿#4 | Kazakhstan
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@5.199.166.177:80?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=44103f58#🇭🇰#5 | Hong Kong
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@94.139.245.218:8000?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇦🇷#6 | Argentina
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@hub.westondigita.cloud:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=hartfordmedia.online&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇩🇪#7 | Germany
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@bi.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=hartfordmedia.online&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇵🇱#8 | Poland
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@rest.westondigita.cloud:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=westondigita.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇫🇷#9 | France
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@notify.hartfordmedia.cloud:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=westondigita.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=44103f58#🇦🇹#10 | Austria
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@94.139.245.217:2442?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇹🇷#11 | Turkey
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@homecdn.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=westondigita.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=44103f58#🇷🇺#12 | Russia
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@5.199.166.177:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇯🇵#13 | Japan
