@@ -25,7 +25,7 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:9443?type=tcp&
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none##13 | 🚫 Finland
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@aneta.kosmolet.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aneta.kosmolet.xyz&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&encryption=none&sid=a67894cec8a930c4#🇵🇱#14 | Poland
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none##15 | 🚫 France
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none##16 | 🚫 Russia
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@kawaii.kosmolet.me:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=max.ru&pbk=ogfHhWRjGLtuiYRXK5C9FOV7JMJJXaI4ZayJeuXp810&encryption=none&sid=30095c6f0c#🇷🇺#16 | Russia
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@144.31.218.79:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&encryption=none&sid=6e249ff1da#🇸🇪#17 | Sweden
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇹🇷#18 | Turkey
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:6443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇳🇴#19 | Norway
