@@ -12,8 +12,8 @@ vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=n
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none##1 | 🚫 United Kingdom
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@ashley.kosmolet.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=ashley.kosmolet.xyz&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&encryption=none&sid=c78d9525a558f9f9#🇺🇸#2 | United States
-vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇨🇭#3 | Switzerland
-vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro-out.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇳🇱#4 | Netherlands
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro-out.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇳🇱#3 | Netherlands
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇨🇭#4 | Switzerland
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿#5 | Kazakhstan
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none##6 | 🚫 Argentina
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none##7 | 🚫 Hong Kong
