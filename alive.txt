@@ -5,22 +5,30 @@
 
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной
 vless://b58c8f4c-0c1f-42e9-8200-6b13f7bfe1a0@lv2.oneclickvps.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=lv2.oneclickvps.ru&pbk=m6X2_QbKUWAY1tIMWDJoqauPMTFG7FudYL4hG2sp7XU&encryption=none&sid=b878ae6472188818#🇪🇺🚀 | Автоматический регион
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@insights.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇪🇺🧠 | AI (Google, Sora) (Off)
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@miya.kosmolet.me:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=max.ru&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&encryption=none&sid=30095c0f0d#🇷🇺💗 | YouTube без рекламы
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@insights.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇪🇺🧠 | 🚫 AI (Google, Sora)
+
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#👇 =============================
 
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@validate.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=hartfordmedia.online&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇬🇧#1 | United Kingdom (Off)
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@data.westondigita.cloud:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=hartfordmedia.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇺🇸#2 | United States (Off)
-vless://b58c8f4c-0c1f-42e9-8200-6b13f7bfe1a0@nl.oneclickvps.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=nl.oneclickvps.ru&pbk=m6X2_QbKUWAY1tIMWDJoqauPMTFG7FudYL4hG2sp7XU&encryption=none&sid=b878ae6472188818#🇳🇱#3 | Netherlands
-vless://b58c8f4c-0c1f-42e9-8200-6b13f7bfe1a0@kz.oneclickvps.ru:443?type=xhttp&security=tls&fp=qq&sni=kz.oneclickvps.ru&encryption=none&host=kz.oneclickvps.ru&path=%2FsycBH98SYO%2F&mode=stream-one&alpn=h3#🇰🇿#4 | Kazakhstan
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@5.199.166.177:80?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=44103f58#🇭🇰#5 | Hong Kong (Off)
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@94.139.245.218:8000?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇦🇷#6 | Argentina (Off)
-vless://b58c8f4c-0c1f-42e9-8200-6b13f7bfe1a0@de.oneclickvps.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=de.oneclickvps.ru&pbk=m6X2_QbKUWAY1tIMWDJoqauPMTFG7FudYL4hG2sp7XU&encryption=none&sid=b878ae6472188818#🇩🇪#7 | Germany
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@bi.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=hartfordmedia.online&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇵🇱#8 | Poland (Off)
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@rest.westondigita.cloud:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=westondigita.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇫🇷#9 | France (Off)
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@notify.hartfordmedia.cloud:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=westondigita.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=44103f58#🇦🇹#10 | Austria (Off)
-vless://b58c8f4c-0c1f-42e9-8200-6b13f7bfe1a0@fi.oneclickvps.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=fi.oneclickvps.ru&pbk=m6X2_QbKUWAY1tIMWDJoqauPMTFG7FudYL4hG2sp7XU&encryption=none&sid=b878ae6472188818#🇫🇮#11 | Finland
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@94.139.245.217:2442?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=2356d1ae4b#🇹🇷#12 | Turkey (Off)
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@homecdn.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=westondigita.cloud&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=44103f58#🇷🇺#13 | Russia (Off)
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@5.199.166.177:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🇯🇵#14 | Japan (Off)
-vless://b58c8f4c-0c1f-42e9-8200-6b13f7bfe1a0@91.204.75.87:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=lv.oneclickvps.ru&pbk=m6X2_QbKUWAY1tIMWDJoqauPMTFG7FudYL4hG2sp7XU&encryption=none&sid=b878ae6472188818#🇱🇻#15 | Latvia
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#1 | 🚫 United Kingdom
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@ashley.kosmolet.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=ashley.kosmolet.xyz&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&encryption=none&sid=c78d9525a558f9f9#🇺🇸#2 | United States
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇨🇭#3 | Switzerland
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro-out.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇳🇱#4 | Netherlands
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿#5 | Kazakhstan
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#6 | 🚫 Argentina
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#7 | 🚫 Hong Kong
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#8 | 🚫 Germany
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#9 | 🚫 Austria
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@144.31.218.79:10443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇺🇦#10 | Ukraine
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@zuko.kosmolet.me:8443?type=ws&security=tls&fp=chrome&sni=kurumi.kosmolet.me&encryption=none&path=%2Flovelive#🇪🇪#11 | Estonia
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇨🇿#12 | Czechia
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#13 | 🚫 Finland
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@aneta.kosmolet.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aneta.kosmolet.xyz&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&encryption=none&sid=a67894cec8a930c4#🇵🇱#14 | Poland
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#15 | 🚫 France
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#16 | 🚫 Russia
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@144.31.218.79:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&encryption=none&sid=6e249ff1da#🇸🇪#17 | Sweden
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇹🇷#18 | Turkey
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:6443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇳🇴#19 | Norway
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#20 | 🚫 Latvia
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#21 | 🚫 Japan
