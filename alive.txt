@@ -6,7 +6,7 @@
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@hiro.kosmojoy.ru:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇪🇺🚀 | Автоматический регион
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@miya.kosmolet.me:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=max.ru&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&encryption=none&sid=30095c0f0d#🇷🇺💗 | YouTube без рекламы
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@insights.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🧠 | 🚫 AI (Google, Sora)
+vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@insights.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🧠 | AI (Google, Sora) 🚫
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#====================================
 
@@ -15,14 +15,19 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@ashley.kosmolet.xyz:443?type=tcp&se
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro-out.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇳🇱Netherlands
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇨🇭Switzerland
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿Kazakhstan
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Argentina
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Argentina 🚫
 vless://6b0f285d-f83b-401f-9c9d-9960bc52a200@fv2026.node2.top:21001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=itunes.apple.com&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&encryption=none&sid=dfa28122&spiderx=%2F#🇭🇰Hong Kong
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Singapore 🚫
+vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&security=none&encryption=none#🇹🇭Thailand
+vless://teymur_vpn@hia.waols.click:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.ir&pbk=0QOg0Zo5ap0n33VXkkN1-k9R9IOkI3igM5Nlg5cRdDQ&encryption=none&sid=aa&spiderx=%2F51elEHTgrapdvOD#🇻🇳Vietnam
 vless://230c5a8a-4b97-0032-bf8f-a0c7363ddc68@2.26.78.131:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=pro-de.emrata.top&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&encryption=none&spiderx=%2F#🇩🇪Germany
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Austria
+vless://6af3672b-8994-4cf1-aa15-23ce6574ebf0@lb1.auragg.org:25004?type=grpc&security=reality&fp=qq&sni=cloudflare.com&pbk=4iK2MvJODGj37OQE588278o4abt70zkFZzmQJg47NiA&encryption=none&sid=a3d8f1e9b2c7d4e6&serviceName=auragrpc&mode=multi&spiderx=%2F#🇦🇱Albania
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Austria 🚫
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@144.31.218.79:10443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇺🇦Ukraine
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@zuko.kosmolet.me:8443?type=ws&security=tls&fp=chrome&sni=kurumi.kosmolet.me&encryption=none&path=%2Flovelive#🇪🇪Estonia
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇨🇿Czechia
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@dev.tunnelpoint.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=dev.tunnelpoint.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&encryption=none&sid=fdda9806fe5d8584&spiderx=%2F#🇫🇮Finland
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?type=ws&security=tls&fp=chrome&sni=ad-013.fluxmxd18.info&encryption=none&path=%2F&host=ad-013.fluxmxd18.info#🇨🇦Canada
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@aneta.kosmolet.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aneta.kosmolet.xyz&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&encryption=none&sid=a67894cec8a930c4#🇵🇱Poland
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@172.64.80.1:8443?type=ws&security=tls&fp=chrome&sni=ad-004.cloud25075.info&encryption=none&path=%2F&host=ad-004.cloud25075.info#🇫🇷France
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@kawaii.kosmolet.me:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=max.ru&pbk=ogfHhWRjGLtuiYRXK5C9FOV7JMJJXaI4ZayJeuXp810&encryption=none&sid=30095c6f0c#🇷🇺Russia
@@ -30,4 +35,6 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@144.31.218.79:11443?type=tcp&securi
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇹🇷Turkey
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:6443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇳🇴Norway
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&security=tls&fp=firefox&sni=lv-ddc.astralweb.tech&encryption=none#🇱🇻Latvia
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Japan
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?type=tcp&security=none&encryption=none#🇹🇼Taiwan
+vless://35a23d16-4117-42e7-8489-a1cedd670374@31.76.37.2:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=pro-it.emrata.top&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&encryption=none&spiderx=%2F#🇮🇹Italy
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Japan 🚫
