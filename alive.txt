@@ -32,4 +32,4 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:6443?type=tcp&
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🚫 Latvia
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🚫 Japan
 
-vless://1fb46fdc-e3e4-35d1-bd46-605d773b5762@5.5.8.9:443?encryption=none&node_id=482&headerType=none&type=tcp&security=reality&sni=booking.com&fp=chrome&pbk=YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&xtls=2#title?serverDescription=test 123
+vless://1fb46fdc-e3e4-35d1-bd46-605d773b5762@5.5.8.9:443?encryption=none&node_id=482&headerType=none&type=tcp&security=reality&sni=booking.com&fp=chrome&pbk=YqHW8a4iAc1SZYpTrFVoOQg1F3yAdX1tWXuROZUCsEU&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&xtls=2#title?serverDescription=SGFwcCB0aGUgYmVzdA==
