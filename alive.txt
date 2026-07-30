@@ -16,8 +16,8 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro-out.kosmojoy.ru:443?type=t
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇨🇭Switzerland
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿Kazakhstan
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Argentina
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Hong Kong
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Germany
+vless://6b0f285d-f83b-401f-9c9d-9960bc52a200@fv2026.node2.top:21001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=itunes.apple.com&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&encryption=none&sid=dfa28122&spiderx=%2F#🇭🇰Hong Kong
+vless://230c5a8a-4b97-0032-bf8f-a0c7363ddc68@2.26.78.131:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=pro-de.emrata.top&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&encryption=none&spiderx=%2F#🇩🇪Germany
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Austria
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@144.31.218.79:10443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇺🇦Ukraine
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@zuko.kosmolet.me:8443?type=ws&security=tls&fp=chrome&sni=kurumi.kosmolet.me&encryption=none&path=%2Flovelive#🇪🇪Estonia
