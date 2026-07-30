@@ -22,7 +22,7 @@ vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=n
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@144.31.218.79:10443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇺🇦Ukraine
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@zuko.kosmolet.me:8443?type=ws&security=tls&fp=chrome&sni=kurumi.kosmolet.me&encryption=none&path=%2Flovelive#🇪🇪Estonia
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇨🇿Czechia
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Finland
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@dev.tunnelpoint.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=dev.tunnelpoint.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&encryption=none&sid=fdda9806fe5d8584&spiderx=%2F#🇫🇮Finland
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@aneta.kosmolet.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aneta.kosmolet.xyz&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&encryption=none&sid=a67894cec8a930c4#🇵🇱Poland
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#France
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@kawaii.kosmolet.me:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=max.ru&pbk=ogfHhWRjGLtuiYRXK5C9FOV7JMJJXaI4ZayJeuXp810&encryption=none&sid=30095c6f0c#🇷🇺Russia
