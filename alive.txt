@@ -26,6 +26,7 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿Kazakhstan
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.vector2llqn.info:8443?type=ws&security=tls&fp=chrome&sni=ad-020.vector2llqn.info&encryption=none&path=%2F&host=ad-020.vector2llqn.info#🇦🇿Azerbaijan
 vless://6b0f285d-f83b-401f-9c9d-9960bc52a200@fv2026.node2.top:21001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=itunes.apple.com&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&encryption=none&sid=dfa28122&spiderx=%2F#🇭🇰Hong Kong
+vless://c38ff276-3a23-4976-f516-8a0a682f3e16@homeless.happy105.eu.cc:55658?type=tcp&security=tls&fp=chrome&sni=homeless.happy105.eu.cc&encryption=none#🇵🇰Pakistan
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?type=tcp&security=none&encryption=none#🇱🇹Lithuania
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Argentina 🚫
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.146:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&encryption=none#🇸🇮Slovenia
