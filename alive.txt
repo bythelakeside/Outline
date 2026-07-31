@@ -19,12 +19,14 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro-out.kosmojoy.ru:443?type=t
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇨🇭Switzerland
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿Kazakhstan
 vless://6b0f285d-f83b-401f-9c9d-9960bc52a200@fv2026.node2.top:21001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=itunes.apple.com&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&encryption=none&sid=dfa28122&spiderx=%2F#🇭🇰Hong Kong
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?type=tcp&security=none&encryption=none#🇱🇹Lithuania
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Argentina 🚫
 vless://d1eeb74f-e5ea-45eb-9934-5376bfeb5ba4@104.17.21.32:8880?type=ws&security=none&encryption=none&host=fragrant-shape-07a0.269-144.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬Singapore
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?type=ws&security=tls&fp=chrome&sni=octopusss.net&encryption=none&path=%2Fodiyfws&host=octopusss.net#🇨🇴Colombia
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=chrome&sni=octopusss.net&encryption=none&path=%2Fodiyfws&host=octopusss.net#🇭🇺Hungary
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.147.94:8443?type=ws&security=tls&fp=chrome&sni=ad-005.vector9nmb3.info&encryption=none&path=%2F&host=ad-005.vector9nmb3.info#🇦🇲Armenia
 vless://230c5a8a-4b97-0032-bf8f-a0c7363ddc68@2.26.78.131:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=pro-de.emrata.top&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&encryption=none&spiderx=%2F#🇩🇪Germany
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?type=ws&security=tls&fp=chrome&sni=music1000.melobitmusic1.ir&encryption=none&path=%2F&host=music1000.melobitmusic1.ir&alpn=h2%2Chttp%2F1.1#🇧🇬Bulgaria
 vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&security=none&encryption=none#🇹🇭Thailand
 vless://teymur_vpn@hia.waols.click:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.ir&pbk=0QOg0Zo5ap0n33VXkkN1-k9R9IOkI3igM5Nlg5cRdDQ&encryption=none&sid=aa&spiderx=%2F51elEHTgrapdvOD#🇻🇳Vietnam
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@144.31.218.79:10443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇺🇦Ukraine
