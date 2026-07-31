@@ -3,8 +3,8 @@
 #subscription-userinfo: upload=24117248; download=0; total=0; expire=1917820800
 #announce: ВСЕ СЕРВЕРА БЕЗЛИМИТНЫЕ<br>Не работает? 🔄 Обнови подписку | 🕓 Проверь пинг и смени сервер
 
-vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной 5
-vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@hiro.kosmojoy.ru:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇪🇺🚀 | Автоматический регион
+vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной 6
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@hiro.kosmojoy.ru:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇪🇺🚀 | Запасной
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🧠 | AI (Google, Sora) 🚫
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@miya.kosmolet.me:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=max.ru&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&encryption=none&sid=30095c0f0d#🇷🇺💗 | YouTube без рекламы
 
@@ -17,23 +17,23 @@ vless://2dd1a15d-1426-413a-a3b8-a645788bc844@109.120.191.40:8443?type=tcp&securi
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@ashley.kosmolet.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=ashley.kosmolet.xyz&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&encryption=none&sid=c78d9525a558f9f9#🇺🇸United States
 vless://884d811f-577b-421e-aabb-608660b0ecfa@94.159.117.66:9894?type=grpc&security=reality&fp=qq&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&sid=aabb&serviceName=grpc-tunnel&mode=multi&spiderx=%2F#🇸🇦Saudi Arabia
 vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?type=ws&security=tls&fp=chrome&sni=ger-full.deepinsane.com&encryption=none&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1&host=ger-full.deepinsane.com&alpn=http%2F1.1#🇲🇪Montenegro
-vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro-out.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇳🇱Netherlands
 vless://b4883d27-3151-4adf-92b1-841c0dccd1ea@172.64.88.168:8880?type=ws&security=none&encryption=none&host=damp-surf-aacf.296-8ed.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷South Korea
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?type=ws&security=none&encryption=none&path=%2Fv1#🇿🇦South Africa
+vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro-out.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇳🇱Netherlands
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇨🇭Switzerland
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿Kazakhstan
+vless://6b0f285d-f83b-401f-9c9d-9960bc52a200@fv2026.node2.top:21001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=itunes.apple.com&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&encryption=none&sid=dfa28122&spiderx=%2F#🇭🇰Hong Kong
 vless://70f8d74a-7938-4f21-9293-2c437a939247@198.23.238.35:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.cloudflare.com&pbk=M4KRLRGcJGhJScjCv3JinHE0Da9s79Ku7GlVFSNsTVY&encryption=none&sid=a61500e1&spiderx=%2F#🇰🇬Kyrgyzstan
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.230:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=storage.yandex.net&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none&sid=c6ef72e4635d15a5&spiderx=%2F#🇵🇭Philippines
-vless://6b0f285d-f83b-401f-9c9d-9960bc52a200@fv2026.node2.top:21001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=itunes.apple.com&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&encryption=none&sid=dfa28122&spiderx=%2F#🇭🇰Hong Kong
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.vector2llqn.info:8443?type=ws&security=tls&fp=chrome&sni=ad-020.vector2llqn.info&encryption=none&path=%2F&host=ad-020.vector2llqn.info#🇦🇿Azerbaijan
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?type=tcp&security=tls&fp=firefox&sni=ddc-chr2.astralweb.tech&encryption=none#🇹🇯Tajikistan
-vless://c38ff276-3a23-4976-f516-8a0a682f3e16@homeless.happy105.eu.cc:55658?type=tcp&security=tls&fp=chrome&sni=homeless.happy105.eu.cc&encryption=none#🇵🇰Pakistan
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?type=tcp&security=none&encryption=none#🇱🇹Lithuania
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Argentina 🚫
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.146:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&encryption=none#🇸🇮Slovenia
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.milo1fmyz.info:8443?type=ws&security=tls&fp=chrome&sni=ad-020.milo1fmyz.info&encryption=none&path=%2F&host=ad-020.milo1fmyz.info#🇵🇹Portugal
 vless://d1eeb74f-e5ea-45eb-9934-5376bfeb5ba4@104.17.21.32:8880?type=ws&security=none&encryption=none&host=fragrant-shape-07a0.269-144.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬Singapore
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?type=ws&security=tls&fp=chrome&sni=octopusss.net&encryption=none&path=%2Fodiyfws&host=octopusss.net#🇨🇴Colombia
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?type=tcp&security=tls&fp=firefox&sni=ddc-chr2.astralweb.tech&encryption=none#🇹🇯Tajikistan
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?type=tcp&security=none&encryption=none#🇱🇹Lithuania
+vless://c38ff276-3a23-4976-f516-8a0a682f3e16@homeless.happy105.eu.cc:55658?type=tcp&security=tls&fp=chrome&sni=homeless.happy105.eu.cc&encryption=none#🇵🇰Pakistan
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.146:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&encryption=none#🇸🇮Slovenia
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.milo1fmyz.info:8443?type=ws&security=tls&fp=chrome&sni=ad-020.milo1fmyz.info&encryption=none&path=%2F&host=ad-020.milo1fmyz.info#🇵🇹Portugal
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@79.108.161.101:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none&sid=00bca5982f82d083&spiderx=%2F#🇷🇴Romania
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=chrome&sni=octopusss.net&encryption=none&path=%2Fodiyfws&host=octopusss.net#🇭🇺Hungary
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.147.94:8443?type=ws&security=tls&fp=chrome&sni=ad-005.vector9nmb3.info&encryption=none&path=%2F&host=ad-005.vector9nmb3.info#🇦🇲Armenia
