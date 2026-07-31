@@ -5,7 +5,7 @@
 
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@hiro.kosmojoy.ru:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇪🇺🚀 | Автоматический регион
-vless://b4c536e5-6dbb-4994-a1e0-5d8005dfcfc1@insights.capitaledge.blog:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&encryption=none&sid=3f8ad1#🧠 | AI (Google, Sora) 🚫
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none№🧠 | AI (Google, Sora) 🚫
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@miya.kosmolet.me:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=max.ru&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&encryption=none&sid=30095c0f0d#🇷🇺💗 | YouTube без рекламы
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#====================================
