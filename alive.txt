@@ -18,7 +18,7 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿Kazakhstan
 vless://6b0f285d-f83b-401f-9c9d-9960bc52a200@fv2026.node2.top:21001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=itunes.apple.com&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&encryption=none&sid=dfa28122&spiderx=%2F#🇭🇰Hong Kong
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Argentina 🚫
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#Singapore 🚫
+vless://d1eeb74f-e5ea-45eb-9934-5376bfeb5ba4@104.17.21.32:8880?type=ws&security=none&encryption=none&host=fragrant-shape-07a0.269-144.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬Singapore
 vless://230c5a8a-4b97-0032-bf8f-a0c7363ddc68@2.26.78.131:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=pro-de.emrata.top&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&encryption=none&spiderx=%2F#🇩🇪Germany
 vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?type=tcp&security=none&encryption=none#🇹🇭Thailand
 vless://teymur_vpn@hia.waols.click:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.ir&pbk=0QOg0Zo5ap0n33VXkkN1-k9R9IOkI3igM5Nlg5cRdDQ&encryption=none&sid=aa&spiderx=%2F51elEHTgrapdvOD#🇻🇳Vietnam
