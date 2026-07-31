@@ -10,7 +10,7 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@miya.kosmolet.me:8443?type=tcp&secu
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#====================================
 
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&security=tls&sni=germany-2.ariyuz.org#United Arab Emirates
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&security=tls&sni=germany-2.ariyuz.org#🇦🇪United Arab Emirates
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&security=tls&sni=germany-2.ariyuz.org&encryption=none&path=%2F&host=germany-2.ariyuz.org&alpn=http%2F1.1#🇲🇰North Macedonia
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@172.64.80.1:8443?type=ws&security=tls&fp=chrome&sni=ad-010.zen2bswa.info&encryption=none&path=%2F&host=ad-010.zen2bswa.info#🇬🇧United Kingdom
 vless://884d811f-577b-421e-aabb-608660b0ecfa@94.159.117.66:9894?type=grpc&security=reality&fp=qq&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&sid=aabb&serviceName=grpc-tunnel&mode=multi&spiderx=%2F#🇸🇦Saudi Arabia
