@@ -5,9 +5,9 @@
 hide-settings: 1
 
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной
-vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@hiro.kosmojoy.ru:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&encryption=none&sid=be0191cc#🇪🇺🚀 | Запасной
+vless://fe302439-2e08-4786-bb43-8b62783ca5ad@slark.root.sx:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=slark.root.sx&pbk=v82LBurkDmZ0WQLtzr0a5dohCFfUOzkA6M14W1GDbnc&encryption=none&sid=6ba85179e30d#🇪🇺🚀 | Запасной
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇪🇺🧠 | AI (Google, Sora) (Offline 🚫)
-vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@miya.kosmolet.me:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=max.ru&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&encryption=none&sid=30095c0f0d#🇷🇺💗 | YouTube без рекламы
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇷🇺💗 | YouTube без рекламы (Offline 🚫)
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#======================================
 
@@ -68,7 +68,7 @@ hysteria://o3774es6cfv74kaf@news.dd.msk.su:443?protocol=hysteria2&auth=o3774es6c
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&encryption=none&sid=ce2491dd#🇹🇷Turkey
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@172.64.80.1:8443?type=ws&security=tls&fp=chrome&sni=ad-004.cloud25075.info&encryption=none&path=%2F&host=ad-004.cloud25075.info#🇫🇷France
 vless://fe302439-2e08-4786-bb43-8b62783ca5ad@slarktop.techstep2.com:443?type=xhttp&security=reality&fp=firefox&sni=slarktop.techstep2.com&pbk=Op8VxSDSGZV-_1osyQZmYKqNLRFlGItGeAWg6GGzBTQ&encryption=none&sid=6ba85179e30d&host=slarktop.techstep2.com&path=%2Fxhttp&mode=stream-one#🇵🇱Poland
-vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=pro-ru-bridge.emrata.top&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&encryption=none&spiderx=%2F#🇷🇺Russia
+vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=pro-ru-bridge.emrata.top&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&encryption=none&spiderx=%2F#🇷🇺Russia (Overloaded 🔨)
 vless://70f8d74a-7938-4f21-9293-2c437a939247@198.23.238.35:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=M4KRLRGcJGhJScjCv3JinHE0Da9s79Ku7GlVFSNsTVY&sid=a61500e1&sni=www.cloudflare.com#🇰🇪Kenya (Overloaded 🔨)
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&security=tls&fp=firefox&sni=lv-ddc.astralweb.tech&encryption=none#🇱🇻Latvia (Overloaded 🔨)
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.133:8443?type=ws&security=tls&fp=chrome&sni=rubifen.adaspoloandco.com&encryption=none&path=%2FGOrbEh&host=rubifen.adaspoloandco.com#🇯🇵Japan
