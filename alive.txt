@@ -1,7 +1,7 @@
 #profile-title: Devin VPN ⚡ (THEIR)
 #profile-update-interval: 48
 #subscription-userinfo: upload=24117248; download=0; total=0; expire=1917820800
-#announce: base64:0JLQodCVINCh0JXQoNCS0JXQoNCQINCR0JXQl9Cb0JjQnNCY0KLQndCr0JUK0J3QtSDRgNCw0LHQvtGC0LDQtdGCPyDwn5SEINCe0LHQvdC+0LLQuCDQv9C+0LTQv9C40YHQutGDIHwg8J+VkyDQn9GA0L7QstC10YDRjCDQv9C40L3QsyDQuCDRgdC80LXQvdC4INGB0LXRgNCy0LXRgAoKT2ZmbGluZSDwn5qrIC0g0KHQtdGA0LLQtdGA0LAg0LLRi9C60LvRjtGH0LXQvdGLCk92ZXJsb2FkZWQg8J+UqCAtINCh0LXRgNCy0LXRgNCwINC/0LXRgNC10LPRgNGD0LbQtdC90YsgfCDQnNC+0LPRg9GCINGA0LDQsdC+0YLQsNGC0Ywg0LzQtdC00LvQtdC90L3Qvg==
+#announce: base64:0JLQodCVINCh0JXQoNCS0JXQoNCQINCR0JXQl9Cb0JjQnNCY0KLQndCr0JUK0J3QtSDRgNCw0LHQvtGC0LDQtdGCPyDwn5SEINCe0LHQvdC+0LLQuCDQv9C+0LTQv9C40YHQutGDIHwg8J+VkyDQn9GA0L7QstC10YDRjCDQv9C40L3QsyDQuCDRgdC80LXQvdC4INGB0LXRgNCy0LXRgAoKT2ZmbGluZSDwn5qrIOKAlCDQodC10YDQstC10YDQsCDQstGL0LrQu9GO0YfQtdC90YsKT3ZlcmxvYWRlZCDwn5SoIOKAlCDQodC10YDQstC10YDQsCDQv9C10YDQtdCz0YDRg9C20LXQvdGLIHwg0JzQvtCz0YPRgiDRgNCw0LHQvtGC0LDRgtGMINC80LXQtNC70LXQvdC90L4=
 hide-settings: 1
 
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺⭐ | Основной
@@ -14,7 +14,7 @@ vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=n
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&security=tls&sni=germany-2.ariyuz.org#🇦🇪United Arab Emirates (Overloaded 🔨)
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&security=tls&sni=germany-2.ariyuz.org&encryption=none&path=%2F&host=germany-2.ariyuz.org&alpn=http%2F1.1#🇲🇰North Macedonia (Overloaded 🔨)
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@172.64.80.1:8443?type=ws&security=tls&fp=chrome&sni=ad-010.zen2bswa.info&encryption=none&path=%2F&host=ad-010.zen2bswa.info#🇬🇧United Kingdom
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@109.120.191.40:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=sun6-22.userapi.com&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&encryption=none&sid=a20d3ed244c76426&spiderx=%2F#🇹🇲Turkmenistan (Offline 🚫)
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇹🇲Turkmenistan (Offline 🚫)
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@ashley.kosmolet.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=ashley.kosmolet.xyz&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&encryption=none&sid=c78d9525a558f9f9#🇺🇸United States
 vless://884d811f-577b-421e-aabb-608660b0ecfa@94.159.117.66:9894?type=grpc&security=reality&fp=qq&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&sid=aabb&serviceName=grpc-tunnel&mode=multi&spiderx=%2F#🇸🇦Saudi Arabia (Overloaded 🔨)
 vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?type=ws&security=tls&fp=chrome&sni=ger-full.deepinsane.com&encryption=none&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1&host=ger-full.deepinsane.com&alpn=http%2F1.1#🇲🇪Montenegro (Overloaded 🔨)
@@ -25,19 +25,19 @@ vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@nagatoro.kosmojoy.ru:2443?type=tcp&
 vless://519c6bcd-b613-4b06-b1d4-6abd42dc72f8@mika.kosmojoy.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=mika.kosmojoy.ru&pbk=16_txbp5fv0AbOw7pKOkJ4K70D1dnmjVXuVwRq50GA0&encryption=none&sid=2ea6b019aee171bc#🇰🇿Kazakhstan (Overloaded 🔨)
 vless://6b0f285d-f83b-401f-9c9d-9960bc52a200@fv2026.node2.top:21001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=itunes.apple.com&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&encryption=none&sid=dfa28122&spiderx=%2F#🇭🇰Hong Kong (Overloaded 🔨)
 vless://70f8d74a-7938-4f21-9293-2c437a939247@198.23.238.35:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.cloudflare.com&pbk=M4KRLRGcJGhJScjCv3JinHE0Da9s79Ku7GlVFSNsTVY&encryption=none&sid=a61500e1&spiderx=%2F#🇰🇬Kyrgyzstan (Overloaded 🔨)
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.230:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=storage.yandex.net&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none&sid=c6ef72e4635d15a5&spiderx=%2F#🇵🇭Philippines (Offline 🚫)
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇵🇭Philippines (Offline 🚫)
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.vector2llqn.info:8443?type=ws&security=tls&fp=chrome&sni=ad-020.vector2llqn.info&encryption=none&path=%2F&host=ad-020.vector2llqn.info#🇦🇿Azerbaijan (Overloaded 🔨)
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?type=tcp&headerType=none&security=none&encryption=none#🇻🇪Venezuela (Overloaded 🔨)
 vless://d1eeb74f-e5ea-45eb-9934-5376bfeb5ba4@104.17.21.32:8880?type=ws&security=none&encryption=none&host=fragrant-shape-07a0.269-144.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇸🇬Singapore (Overloaded 🔨)
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇦🇷Argentina (Offline 🚫)
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?type=ws&security=tls&fp=chrome&sni=octopusss.net&encryption=none&path=%2Fodiyfws&host=octopusss.net#🇨🇴Colombia (Overloaded 🔨)
 vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?type=tcp&security=tls&fp=firefox&sni=ddc-chr2.astralweb.tech&encryption=none#🇹🇯Tajikistan
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?type=tcp&security=none&encryption=none#🇱🇹Lithuania (Overloaded 🔨)
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.234.210:443?type=grpc&security=reality&fp=firefox&sni=www.tradingview.com&pbk=II9Tn-HPL7xcENiybDfQ_bSw31rSzQbIGYn-hCxdb2w&encryption=none&sid=ccda00cc&serviceName=grpc&mode=multi&spiderx=%2F#🇱🇹Lithuania
 vless://50fd41c0-aa71-40a1-bf64-737477e6afe0@slarktop.aktion.cl:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=slarktop.aktion.cl&pbk=v82LBurkDmZ0WQLtzr0a5dohCFfUOzkA6M14W1GDbnc&encryption=none&sid=6ba85179e30d#🇩🇪Germany
 hysteria://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?protocol=hysteria2&auth=1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq&sni=prodfr.h2corp.org&alpn=h3&congestion=brutal#🇧🇸Bahamas (Overloaded 🔨)
 vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.41.131:8443?type=ws&security=tls&fp=chrome&sni=ad-010.vector9nmb3.info&encryption=none&path=%2F&host=ad-010.vector9nmb3.info#🇲🇦Morocco (Overloaded 🔨)
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.185.125:8443?type=ws&security=tls&fp=chrome&sni=ad-013.zen2bswa.info&encryption=none&path=%2F&host=ad-013.zen2bswa.info#🇦🇺Australia (Overloaded 🔨)
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@79.108.161.101:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none&sid=00bca5982f82d083&spiderx=%2F#🇷🇴Romania (Offline 🚫)
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇷🇴Romania (Offline 🚫)
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?type=ws&security=tls&fp=chrome&sni=octopusss.net&encryption=none&path=%2Fodiyfws&host=octopusss.net#🇭🇺Hungary (Overloaded 🔨)
 vless://teymur_vpn@hia.waols.click:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.ir&pbk=0QOg0Zo5ap0n33VXkkN1-k9R9IOkI3igM5Nlg5cRdDQ&encryption=none&sid=aa&spiderx=%2F51elEHTgrapdvOD#🇻🇳Vietnam (Overloaded 🔨)
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.147.94:8443?type=ws&security=tls&fp=chrome&sni=ad-005.vector9nmb3.info&encryption=none&path=%2F&host=ad-005.vector9nmb3.info#🇦🇲Armenia (Overloaded 🔨)
@@ -77,7 +77,7 @@ vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.57.111:8443?type=ws&security
 vless://0e192bd1-8f19-4184-9fff-6d67e4f738bd@77.105.163.46:443?type=ws&security=tls&fp=chrome&sni=ov186.ochmaybrooooo.online&encryption=none&path=%2F&host=ov186.ochmaybrooooo.online&alpn=http%2F1.1#🇨🇳China (Overloaded 🔨)
 vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@2.27.26.51:443?type=grpc&security=reality&fp=firefox&sni=draftnest-rrew.ru&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&encryption=none&sid=d9662905&serviceName=nexusGrpc&mode=multi&spiderx=%2F#🇪🇸Spain (Overloaded 🔨)
 vless://33d5ecd8-b530-4040-9c40-98b6805a3992@love.ns.cloudflare.com:443?type=ws&security=tls&fp=chrome&sni=files104.noonpanir.info&encryption=none&path=%2Ffiles104&host=files104.noonpanir.info&alpn=http%2F1.1#🇧🇷Brazil (Overloaded 🔨)
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@79.108.161.101:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none&sid=00bca5982f82d083&spiderx=%2F#🇮🇱Israel (Offline 🚫)
+vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇮🇱Israel (Offline 🚫)
 vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.67.175.34:8443?type=ws&security=tls&fp=chrome&sni=ad-007.cloud25075.info&encryption=none&path=%2F&host=ad-007.cloud25075.info#🇨🇱Chile (Overloaded 🔨)
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&sni=secure.furrycdn.net&encryption=none#🇮🇳India (Overloaded 🔨)
 vless://35a23d16-4117-42e7-8489-a1cedd670374@31.76.37.2:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=pro-it.emrata.top&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&encryption=none&spiderx=%2F#🇮🇹Italy (Overloaded 🔨)
