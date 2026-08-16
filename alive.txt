@@ -4,14 +4,15 @@
 #announce: base64:0JLQodCVINCh0JXQoNCS0JXQoNCQINCR0JXQl9Cb0JjQnNCY0KLQndCr0JUK0J3QtSDRgNCw0LHQvtGC0LDQtdGCPyDwn5SEINCe0LHQvdC+0LLQuCDQv9C+0LTQv9C40YHQutGDIHwg8J+VkyDQn9GA0L7QstC10YDRjCDQv9C40L3QsyDQuCDRgdC80LXQvdC4INGB0LXRgNCy0LXRgAoKT2ZmbGluZSDwn5qrIOKAlCDQodC10YDQstC10YDQsCDQstGL0LrQu9GO0YfQtdC90YsKT3ZlcmxvYWRlZCDwn5SoIOKAlCDQodC10YDQstC10YDQsCDQv9C10YDQtdCz0YDRg9C20LXQvdGLIHwg0JzQvtCz0YPRgiDRgNCw0LHQvtGC0LDRgtGMINC80LXQtNC70LXQvdC90L4=
 hide-settings: 1
 
-vless://82036332-2163-43c9-b215-6a853d803790@nl-8.secureclouds.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=nl-8.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇪🇺⭐ | Основной
+vless://82036332-2163-43c9-b215-6a853d803790@nl-8.secureclouds.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=nl-8.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇪🇺⭐ | Основной (Offline 🚫)
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺🚀 | Запасной
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇪🇺🧠 | AI (Google, Sora) (Offline 🚫)
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇷🇺💗 | YouTube без рекламы (Offline 🚫)
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#======================================
 
-vless://82036332-2163-43c9-b215-6a853d803790@uk-1.secureclouds.top:543?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=uk-1.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇬🇧United Kingdom
-vless://82036332-2163-43c9-b215-6a853d803790@usa-1.secureclouds.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=usa-1.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇺🇸United States
-vless://82036332-2163-43c9-b215-6a853d803790@nl-3.secureclouds.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=nl-3.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇳🇱Netherlands
-vless://82036332-2163-43c9-b215-6a853d803790@sw-2.neurostore.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=sw-2.neurostore.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇸🇪Sweden (Overloaded 🔨)
+vless://82036332-2163-43c9-b215-6a853d803790@uk-1.secureclouds.top:543?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=uk-1.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇬🇧United Kingdom (Offline 🚫)
+vless://82036332-2163-43c9-b215-6a853d803790@usa-1.secureclouds.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=usa-1.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇺🇸United States (Offline 🚫)
+vless://82036332-2163-43c9-b215-6a853d803790@nl-3.secureclouds.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=nl-3.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇳🇱Netherlands (Offline 🚫)
+vless://fe302439-2e08-4786-bb43-8b62783ca5ad@slarktop.aktion.cl:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=slarktop.aktion.cl&pbk=v82LBurkDmZ0WQLtzr0a5dohCFfUOzkA6M14W1GDbnc&sid=6ba85179e30d&encryption=none#🇩🇪Germany
+vless://82036332-2163-43c9-b215-6a853d803790@sw-2.neurostore.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=sw-2.neurostore.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇸🇪Sweden (Offline 🚫)
