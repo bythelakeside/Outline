@@ -4,15 +4,16 @@
 #announce: base64:0JLQodCVINCh0JXQoNCS0JXQoNCQINCR0JXQl9Cb0JjQnNCY0KLQndCr0JUK0J3QtSDRgNCw0LHQvtGC0LDQtdGCPyDwn5SEINCe0LHQvdC+0LLQuCDQv9C+0LTQv9C40YHQutGDIHwg8J+VkyDQn9GA0L7QstC10YDRjCDQv9C40L3QsyDQuCDRgdC80LXQvdC4INGB0LXRgNCy0LXRgAoKT2ZmbGluZSDwn5qrIOKAlCDQodC10YDQstC10YDQsCDQstGL0LrQu9GO0YfQtdC90YsKT3ZlcmxvYWRlZCDwn5SoIOKAlCDQodC10YDQstC10YDQsCDQv9C10YDQtdCz0YDRg9C20LXQvdGLIHwg0JzQvtCz0YPRgiDRgNCw0LHQvtGC0LDRgtGMINC80LXQtNC70LXQvdC90L4=
 hide-settings: 1
 
-vless://6fade931-da8f-4b3c-8804-b2f7b4703242@nl1.gracefultun.xyz:443?encryption=none&security=tls&sni=nl1.gracefultun.xyz&fp=qq&type=xhttp&host=nl1.gracefultun.xyz&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&mode=auto#🇪🇺⭐ | Основной
+vless://2aacdb2a-8e4f-49ed-871a-44e737cfb43f@155.212.145.120:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloud.1c.ru&fp=qq&pbk=rKwPMw1L-xdPNJNXdkp5tZpkfvhPqwiKjrNyyKsuqwM&type=tcp#🇪🇺⭐ | Основной
 vless://6fc52984-1b75-45fa-963e-15826f45db97@againstvpn.ru:443?type=xhttp&security=none&encryption=none&host=againstvpn.ru&path=%2F&mode=auto&scMaxConcurrentPosts=10&scMaxEachPostBytes=1000000&scMinPostsIntervalMs=30#🇪🇺🚀 | Запасной
-vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇪🇺🧠 | AI (Google, Sora) (Offline 🚫)
+vless://2aacdb2a-8e4f-49ed-871a-44e737cfb43f@5.175.178.79:443?encryption=none&security=tls&sni=takehost-ee-1.novacorium.com&fp=chrome&alpn=h2%2Chttp%2F1.1&type=xhttp&host=takehost-ee-1.novacorium.com&path=%2Fwp-json%2Fwp%2Fv2%2Fmedia%2Fe36288&mode=packet-up#🇪🇺🧠 | AI (Google, Sora)
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#🇷🇺💗 | YouTube без рекламы (Offline 🚫)
 
 vless://805958c2-ab6f-4a0b-9006-1874f9eb78de@broken.example.com:443?encryption=none#======================================
 
 vless://82036332-2163-43c9-b215-6a853d803790@uk-1.secureclouds.top:543?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&sni=uk-1.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇬🇧United Kingdom (Offline 🚫)
-vless://82036332-2163-43c9-b215-6a853d803790@usa-1.secureclouds.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=usa-1.secureclouds.top&pbk=31Xx3qWuWLvWfh-v2z7MZg1zVykVBkpDRoTFAnvBO1Q&encryption=none&sid=a1b2c3d4#🇺🇸United States (Offline 🚫)
-vless://6fade931-da8f-4b3c-8804-b2f7b4703242@nl1.gracefultun.xyz:443?encryption=none&security=tls&sni=nl1.gracefultun.xyz&fp=qq&type=xhttp&host=nl1.gracefultun.xyz&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&mode=auto#🇳🇱Netherlands
-vless://6fade931-da8f-4b3c-8804-b2f7b4703242@sg.oaklandjoseph.top:7443?encryption=none&security=tls&sni=sg.oaklandjoseph.top&fp=qq&type=xhttp&host=sg.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F&mode=auto#🇸🇬Singapore
-vless://6fade931-da8f-4b3c-8804-b2f7b4703242@85.117.243.14:443?encryption=none&security=tls&sni=de4.gracefultun.xyz&fp=edge&type=xhttp&host=de4.gracefultun.xyz&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&mode=auto#🇩🇪Germany
+hysteria://us-1.someadminpanel.ru:443?auth=2aacdb2a-8e4f-49ed-871a-44e737cfb43f&peer=us-1.someadminpanel.ru&insecure=0&upmbps=100&downmbps=100&alpn=h3#🇺🇸United States
+vless://2aacdb2a-8e4f-49ed-871a-44e737cfb43f@31.76.115.49:443?encryption=none&security=tls&sni=nl-1.novacorium.com&fp=chrome&alpn=h2%2Chttp%2F1.1&type=xhttp&host=nl-1.novacorium.com&path=%2Fapi%2Fv1%2Fsync%2Fsessions%2Fc369605df9%2Fappend&mode=packet-up#🇳🇱Netherlands
+vless://6fade931-da8f-4b3c-8804-b2f7b4703242@sg.oaklandjoseph.top:7443?encryption=none&security=tls&sni=sg.oaklandjoseph.top&fp=qq&type=xhttp&host=sg.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F&mode=auto#🇸🇬Singapore (Offline 🚫)
+vless://2aacdb2a-8e4f-49ed-871a-44e737cfb43f@5.83.129.223:443?encryption=none&security=tls&sni=takehost-de-1.novacorium.com&fp=qq&alpn=h2%2Chttp%2F1.1&type=xhttp&host=takehost-de-1.novacorium.com&path=%2Fwp-json%2Fwp%2Fv2%2Fmedia%2F9745ed&mode=packet-up#🇩🇪Germany
+vless://2aacdb2a-8e4f-49ed-871a-44e737cfb43f@fin-2.novacorium.com:8443?encryption=none&security=tls&sni=fin-2.novacorium.com&fp=qq&alpn=h2%2Chttp%2F1.1&type=xhttp&host=fin-2.novacorium.com&path=%2Fassets%2Fb397970f00242542&mode=packet-up#🇫🇮Finland
